@@ -1,0 +1,13 @@
+# Jobsheet2
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/Bola.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/Bus1.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/Bus2.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/Bus3.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/BusPraktikum.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/EncapDataDiri.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/UjiBola.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/UjiBus1.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/UjiBus2.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/UjiBus3.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/UjiBusPraktek.jpg)
+![alt text] (https://github.com/salmasalsabila/Jobsheet2/blob/master/encapSiswa.jpg)
